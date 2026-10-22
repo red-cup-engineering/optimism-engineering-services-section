@@ -5,5 +5,10 @@
     "type": "git",
     "url": "git+https://github.com/red-cup-engineering/optimism-services-section.git"
   },
-  "description": "Optimism protocol arena; deployment carriers and independently operated OP Stack actors are seated below this locus."
+  "description": "Optimism protocol arena; deployment carriers and independently operated OP Stack actors are seated below this locus.",
+  "license": "MIT",
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/561-group/.github/blob/main/TIPS.md"
+  }
 }
