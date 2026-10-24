@@ -1,9 +1,9 @@
 {
-  "name": "@red-cup-engineering/optimism-services-section",
+  "name": "@red-cup-engineering/optimism-engineering-services-section",
   "version": "0.1.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/red-cup-engineering/optimism-services-section.git"
+    "url": "git+https://github.com/red-cup-engineering/optimism-engineering-services-section.git"
   },
   "description": "Optimism protocol arena; deployment carriers and independently operated OP Stack actors are seated below this locus.",
   "license": "MIT",
